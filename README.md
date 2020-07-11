@@ -1,6 +1,7 @@
 ## Author 
-Anirudh Apparaju
-Based on Dmitry Krotov's starting code (https://github.com/DimaKrotov/Biological_Learning).
+- Anirudh Apparaju
+
+- Based on Dmitry Krotov's starting code (https://github.com/DimaKrotov/Biological_Learning).
 
 ## Files
 - NN_with_end_to_end_backprop.ipynb: Neural Network with a single hidden layer trained for classification tasks using classic end-to-end backpropagation.
